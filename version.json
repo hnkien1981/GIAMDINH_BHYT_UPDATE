@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.0.4",
+    "version":  "1.0.5",
     "releaseDate":  "2026-11-03",
-    "downloadUrl":  "https://github.com/hnkien1981/GIAMDINH_BHYT_UPDATE/releases/download/v1.0.4/GIAMDINH_BHYT_1.0.4.zip",
-    "sha256":  "292cf315adc4585c6275f50c9872bf864b794a1eb48c354fb78c6215a948a155",
-    "fileName":  "GIAMDINH_BHYT_1.0.4.zip",
+    "downloadUrl":  "https://github.com/hnkien1981/GIAMDINH_BHYT_UPDATE/releases/download/v1.0.5/GIAMDINH_BHYT_1.0.5.zip",
+    "sha256":  "91e1fa0785753760d03929f90b85199b1f1cae8b654937313d74bb9a9d734c5c",
+    "fileName":  "GIAMDINH_BHYT_1.0.5.zip",
     "releaseNotes":  [
-                         "Cap nhat phien ban 1.0.4.",
+                         "Cap nhat phien ban 1.0.5.",
                          "Tai va cai dat tu dong qua Internet."
                      ]
 }
